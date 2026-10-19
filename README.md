@@ -1,4 +1,4 @@
-# Days of DevOps — KodeKloud
+# Days of DevOps : KodeKloud
 
 My hands-on solutions to the daily DevOps tasks from **[KodeKloud Engineer](https://engineer.kodekloud.com/)**. Each folder is one task: the problem statement, the commands/config I used to solve it, and screenshots of the result.
 
